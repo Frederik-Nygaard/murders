@@ -1,6 +1,6 @@
 ---
 title: "Report on Gun Murders"
-author: "Rafael Irizarry"
+author: "Frederik Nygaard"
 date: "`r format(Sys.Date())`"
 output: html_document
 ---
